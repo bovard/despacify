@@ -2,7 +2,7 @@
   "name": "despacify",
   "version": "0.0.1",
   "description": "Removes spaces from all files/folders in a folder",
-  "main": "index.js",
+  "main": "src/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
