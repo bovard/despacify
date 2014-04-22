@@ -1,0 +1,23 @@
+{
+  "name": "despacify",
+  "version": "0.0.1",
+  "description": "Removes spaces from all files/folders in a folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bovard/despacify.git"
+  },
+  "keywords": [
+    "remove",
+    "space"
+  ],
+  "author": "Bovard Tiberi <bovard.tiberi@gmail.com> (http://github.com/bovard)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bovard/despacify/issues"
+  },
+  "homepage": "https://github.com/bovard/despacify"
+}
